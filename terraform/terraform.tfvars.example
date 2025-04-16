@@ -1,0 +1,10 @@
+## Copy this file to "terraform.tfvars" and set the variables as appropriate.
+
+# Uncomment if you need to use a non-default AWS credentials profile.
+# aws_profile = "YOUR NON-DEFAULT PROFILE" 
+
+# Required parameters.
+aws_region = "YOUR REGION"
+vpc_id = "VPC REGION"
+subnet_id = "VPC SUBNET ID"
+capacity_reservation_id = "YOUR CAPACITY BLOCK FOR ML RESERVATION ID"
