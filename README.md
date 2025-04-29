@@ -4,7 +4,7 @@ AWS Batch is able to make efficient use of your [Capacity Blocks for ML](https:/
 
 For more information refer to the associated blog post for this repo at:
 
-[BLOG POST TITLE](BLOG POST URL)
+[How to use Capacity Blocks for ML with AWS Batch](https://aws.amazon.com/blogs/hpc/how-to-use-capacity-blocks-for-ml-with-aws-batch/)
 
 ## Instructions
 
